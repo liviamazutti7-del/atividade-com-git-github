@@ -4,5 +4,5 @@ let temCNH= prompt ("possui CNH? (sim ou nao)");
 if (idade >= 18 && temCNH === "sim")  {
     alert("Você pode dirigir");
 } else {
-    alert("você nso pode dirigir");
+    alert("você nao pode dirigir");
 }
